@@ -4,7 +4,7 @@ import './App.css'
 
 function App() {
   const {loading, res: week, error} = useWeek()
-  if(loading || !week) return "loading"
+  if(loading || !week) return <p>loading</p>
 
   if (error) {
     return (
@@ -14,7 +14,7 @@ function App() {
       </>
     )
   }
-  console.log({loading, week})
+
   return (
     <ul>
         {Object.keys(week).map(d => <li>{d}: <ul><li>{week[d].morning}</li><li>{week[d].afternoon}</li></ul></li>)}
