@@ -6,12 +6,10 @@ import (
 	sparta "github.com/mweagle/Sparta"
 )
 
-// Standard AWS λ function
 func weekTimeTable(ctx context.Context) (Week, error) {
 	return GetWeekTime(), nil
 }
 
-// Standard AWS λ function
 func dayTimeTable(ctx context.Context) (Day, error) {
 	return GetTodayTime(), nil
 }
