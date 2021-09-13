@@ -1,0 +1,73 @@
+[
+  {
+    "Monday": {
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Tuesday": {
+      "Morning": "8h30 - 12h30",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Friday": {
+      "Morning": "8h30 - 12h30",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Saturday": {
+      "Morning": "8h30 - 12h30",
+      "Afternoon": "13h30 - 18h30"
+    }
+  },
+  {
+    "Tuesday": {
+      "Morning": "9h - 12h",
+      "Afternoon": "14h - 19h"
+    },
+    "Wednesday": {
+      "Morning": "8h30 - 12h30",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Thursday": {
+      "Morning": "9h - 12h",
+      "Afternoon": "14h - 19h"
+    },
+    "Friday": {
+      "Morning": "8h30 - 12h",
+      "Afternoon": "13h30 - 19h"
+    }
+  },
+  {
+    "Monday": {
+      "Morning": "9h - 12h30",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Tuesday": {
+      "Morning": "8h30 - 12h",
+      "Afternoon": "14h - 19h"
+    },
+    "Thursday": {
+      "Morning": "9h - 12h",
+      "Afternoon": "13h30 - 19h"
+    },
+    "Friday": {
+      "Morning": "8h30 - 12h",
+      "Afternoon": "13h30 - 18h30"
+    }
+  },
+  {
+    "Tuesday": {
+      "Morning": "9h - 12h",
+      "Afternoon": "14h - 18h30"
+    },
+    "Wednesday": {
+      "Morning": "8h30 - 12h30",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Thursday": {
+      "Morning": "9h - 12h",
+      "Afternoon": "13h30 - 19h30"
+    },
+    "Friday": {
+      "Morning": "8h30 - 12h",
+      "Afternoon": "14h - 19h"
+    }
+  }
+]
